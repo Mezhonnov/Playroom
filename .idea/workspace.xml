@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b3c25be2-670a-481b-8ffa-6738a574ff0a" name="Changes" comment="AWS connection via PySpark (add)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mySQL_connect.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mySQL_connect.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postgresql_connect.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/postgresql_connect.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
