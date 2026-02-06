@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3c25be2-670a-481b-8ffa-6738a574ff0a" name="Changes" comment="add csv file">
-      <change afterPath="$PROJECT_DIR$/AWS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Playroom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Playroom.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b3c25be2-670a-481b-8ffa-6738a574ff0a" name="Changes" comment="AWS connection via PySpark (add)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/download_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datasets/download_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mySQL_connect.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mySQL_connect.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +89,8 @@
       <workItem from="1754465694615" duration="1223000" />
       <workItem from="1754467355089" duration="7000" />
       <workItem from="1754467373646" duration="137000" />
-      <workItem from="1754467545348" duration="907000" />
+      <workItem from="1754467545348" duration="4127000" />
+      <workItem from="1770374099367" duration="53000" />
     </task>
     <task id="LOCAL-00001" summary="create the nre repository">
       <option name="closed" value="true" />
@@ -128,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754411008821</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="AWS connection via PySpark (add)">
+      <option name="closed" value="true" />
+      <created>1754468480097</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754468480097</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +156,8 @@
     <MESSAGE value="create the nre repository" />
     <MESSAGE value="add 2 notebooks" />
     <MESSAGE value="add csv file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add csv file" />
+    <MESSAGE value="AWS connection via PySpark (add)" />
+    <option name="LAST_COMMIT_MESSAGE" value="AWS connection via PySpark (add)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
